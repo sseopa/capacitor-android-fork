@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Code\\Mobile\\easipolmobileapp\\node_modules\\@capacitor\\android\\capacitor\\build\\intermediates\\res\\merged\\release\\animator\\fragment_open_enter.xml",
+        "source": "C:\\Users\\sseopa\\.gradle\\caches\\transforms-2\\files-2.1\\c95c9fc734d96da7d33980112d10de15\\fragment-1.3.6\\res\\animator\\fragment_open_enter.xml"
+    },
+    {
+        "merged": "C:\\Code\\Mobile\\easipolmobileapp\\node_modules\\@capacitor\\android\\capacitor\\build\\intermediates\\res\\merged\\release\\animator\\fragment_open_exit.xml",
+        "source": "C:\\Users\\sseopa\\.gradle\\caches\\transforms-2\\files-2.1\\c95c9fc734d96da7d33980112d10de15\\fragment-1.3.6\\res\\animator\\fragment_open_exit.xml"
+    },
+    {
+        "merged": "C:\\Code\\Mobile\\easipolmobileapp\\node_modules\\@capacitor\\android\\capacitor\\build\\intermediates\\res\\merged\\release\\animator\\fragment_close_exit.xml",
+        "source": "C:\\Users\\sseopa\\.gradle\\caches\\transforms-2\\files-2.1\\c95c9fc734d96da7d33980112d10de15\\fragment-1.3.6\\res\\animator\\fragment_close_exit.xml"
+    },
+    {
+        "merged": "C:\\Code\\Mobile\\easipolmobileapp\\node_modules\\@capacitor\\android\\capacitor\\build\\intermediates\\res\\merged\\release\\animator\\fragment_fade_enter.xml",
+        "source": "C:\\Users\\sseopa\\.gradle\\caches\\transforms-2\\files-2.1\\c95c9fc734d96da7d33980112d10de15\\fragment-1.3.6\\res\\animator\\fragment_fade_enter.xml"
+    },
+    {
+        "merged": "C:\\Code\\Mobile\\easipolmobileapp\\node_modules\\@capacitor\\android\\capacitor\\build\\intermediates\\res\\merged\\release\\animator\\fragment_fade_exit.xml",
+        "source": "C:\\Users\\sseopa\\.gradle\\caches\\transforms-2\\files-2.1\\c95c9fc734d96da7d33980112d10de15\\fragment-1.3.6\\res\\animator\\fragment_fade_exit.xml"
+    },
+    {
+        "merged": "C:\\Code\\Mobile\\easipolmobileapp\\node_modules\\@capacitor\\android\\capacitor\\build\\intermediates\\res\\merged\\release\\animator\\fragment_close_enter.xml",
+        "source": "C:\\Users\\sseopa\\.gradle\\caches\\transforms-2\\files-2.1\\c95c9fc734d96da7d33980112d10de15\\fragment-1.3.6\\res\\animator\\fragment_close_enter.xml"
+    }
+]

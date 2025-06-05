@@ -1,0 +1,20 @@
+com/getcapacitor/PluginResult.java
+ com.getcapacitor.PluginResult
+com/getcapacitor/annotation/ActivityCallback.java
+ com.getcapacitor.annotation.ActivityCallback
+com/getcapacitor/JSObject.java
+ com.getcapacitor.JSObject
+com/getcapacitor/AndroidProtocolHandler.java
+ com.getcapacitor.AndroidProtocolHandler
+com/getcapacitor/annotation/Permission.java
+ com.getcapacitor.annotation.Permission
+com/getcapacitor/annotation/PermissionCallback.java
+ com.getcapacitor.annotation.PermissionCallback
+com/getcapacitor/annotation/CapacitorPlugin.java
+ com.getcapacitor.annotation.CapacitorPlugin
+com/getcapacitor/App.java
+ com.getcapacitor.App
+ com.getcapacitor.App$AppRestoredListener
+ com.getcapacitor.App$AppStatusChangeListener
+com/getcapacitor/AppUUID.java
+ com.getcapacitor.AppUUID
